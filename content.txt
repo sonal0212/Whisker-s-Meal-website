@@ -1,21 +1,79 @@
 /*****************************************/
-/* Intro */
+/* HEADER */
 /*****************************************/
-Let’s get real, you don’t have to be a Veterinary Nutritionist to know good food. But it’s nice to have one on staff. Don’t feed your pets fast food. Nurture them with our slow-cooked recipes for healthier, happier pets.
-/*****************************************/
-/* sell */
-/*****************************************/
-Junior Ocean Fish with Milk
-Junior Ocean Fish is a complete and balanced dry, kitten food recipe, rich in protein (for lean musc...
+Optimal, Nutritious and Tasty Food for cats:
+Let’s get real, you don’t have to be a Veterinary
+Nutritionist to know good food. But it’s nice to 
+have one on staff. Don’t feed your pets fast food.
+Nurture them with our slow-cooked recipes for
+healthier, happier pets.
 
-Kitten Food Chicken in Gravy
-Chicken in Gravy is a balanced wet kitten food recipe that provides moisture and nourishment for a h...
 
-Kitten Mackerel Flavour
-Mackerel is a nutritionally complete and balanced kitten food recipe that has carefully been created...
+/*****************************************/
+/* Features */
+/*****************************************/
+What makes our food special:
+1)Our nutrition philosophy
+
+- Pet nutritionists
+- Health & well-being
+- Vitamins C & E
+- Omega fatty acids
+2)High quality ingredients
+  Animal-based proteins to build muscle.
+  Low carbs and low-glycemic ingredients to 
+  maintain healthy weight.
+3)Real Food
+  Human-grade meat and veggies in simple recipes,
+  made for cats. We maintain food and nutritional
+  integrity.
+
+
 /*****************************************/
 /* review */
 /*****************************************/
 Best Think Ever did for my cat!
 I like pet shop more and more each day because it makes my life a lot easier. I rotate a variety of proteins and everybody's happy. I feel good feeding it to her. Thanks so much!
 -cat owner-->Jennifer joe
+
+/*****************************************/
+/* bestseller product */
+/*****************************************/
+Tuna in Jelly
+Wet Cat Food – a complete and balanced meal 
+for a cat’s vital system.
+weight:85g
+Crude Protein (%):8.5%
+Crude fat (%):4.5%
+Crude Fiber (%):0.30%
+Moisture (%):84.5%
+
+
+
+Kitten Food Chicken in Gravy
+Chicken in Gravy is a balanced wet food recipe that provides moisture and nourishment for a h...
+Moisture:83.5%
+Crude Fibre:0.20%
+Crude Protein:8.0%
+Crude Fat:6.0%
+weight:85g
+
+
+Kitten Mackerel Flavour
+Mackerel is a nutritionally complete and balanced
+ kitten food recipe that has carefully been created
+ created to cater to the requirements of an adult cat’s system.
+weight:450g
+Protein (%):30
+Fat (%):10
+Moisture (%):12
+Fiber (%):5
+
+/*****************************************/
+/* footer */
+/*****************************************/
+trusted recipe made from selecting the best 
+wholegrain cereals (corn, rice, wheat), ocean fish, 
+poultry & soy bean products to ensure our friend 
+receives all that it needs to lead a healthy long 
+life.
