@@ -68,6 +68,7 @@ h2 {
   text-transform: uppercase;
   display: inline-block;
   border-radius: 10rem;
+  letter-spacing: 1.6px;
 }
 
 .btn:hover,
@@ -77,7 +78,7 @@ h2 {
 
 .btn--big {
   font-size: 1.8rem;
-  padding: 1.6rem 3.2rem;
+  padding: 1.4rem 3.2rem;
   font-weight: 600;
 }
 
@@ -87,7 +88,7 @@ img {
 
 /* HEADER */
 
-header {
+.heading {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   column-gap: 8rem;
@@ -98,23 +99,41 @@ header {
   align-self: center;
 }
 
-h1 {
-  margin-bottom: 2.4rem;
+.brand {
+  margin-bottom: 1.6rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #e67700;
+  letter-spacing: 1.2px;
+}
+
+.heading-primary {
+  margin-bottom: 1.5rem;
   font-size: 4.4rem;
-  line-height: 0.75;
+  line-height: 1.1;
   letter-spacing: -1px;
+  font-weight: 700;
 }
 
 .header-text {
-  margin-bottom: 2.4rem;
+  margin-bottom: 4rem;
   font-size: 1.8rem;
   line-height: 1.7;
 }
 
-img {
+.header-img {
   width: 100%;
 }
+
 /* FEATURES */
+.features-header {
+  margin-bottom: 5.2rem;
+  font-size: 3.6rem;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  font-weight: 700;
+}
+
 .features-icon {
   color: #f59f00;
   width: 3.2rem;
@@ -130,8 +149,4 @@ img {
 .features-text {
   font-size: 1.8rem;
   line-height: 1.7;
-}
-
-.features-list {
-  list-style: none;
 }

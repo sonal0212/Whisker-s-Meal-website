@@ -7,17 +7,21 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="css/style.css" />
     <title>FoodForKitties</title>
   </head>
   <body class="container">
-    <header>
+    <header class="heading">
       <div class="header-text-box">
-        <h1>FoodForKitties <ion-icon class="logo" name="paw"></ion-icon></h1>
-        <h2>Optimal, Nutritious and Tasty Food for cats</h2>
+        <p class="brand">
+          Whisker's Meal <ion-icon class="logo" name="paw"></ion-icon>
+        </p>
+        <h1 class="heading-primary">
+          Optimal, Nutritious and Tasty Food for cats
+        </h1>
         <p class="header-text">
           Let’s get real, you don’t have to be a Veterinary Nutritionist to know
           good food. But it’s nice to have one on staff. Don’t feed your pets
@@ -26,25 +30,23 @@
         </p>
         <a class="btn btn--big" href="#">Shop Now</a>
       </div>
-      <img src="img/cat.jpg" alt="header img" />
+      <img class="header-img" src="img/cat.jpg" alt="header img" />
     </header>
+    <!-- feature section -->
 
-    <section>
-      <h2>What makes our food special</h2>
+    <section class="features">
+      <h2 class="features-header">What makes our food special</h2>
       <div class="grid-3-cols">
         <div>
           <ion-icon class="features-icon" name="leaf"></ion-icon>
           <p class="features-title">
             <strong>Our nutrition philosophy</strong>
           </p>
-          <ul class="features-text features-list">
-            <li>- Pet nutritionists</li>
-            <li>- Health & well-being</li>
-            <li>- Vitamins C & E</li>
-            <li>- Omega fatty acids</li>
-          </ul>
+          <p class="features-text">
+            We provide healthy products rich in Vitamin C and E with Omega fatty
+            acids for the cats well-being.
+          </p>
         </div>
-
         <div>
           <ion-icon class="features-icon" name="shield-checkmark"></ion-icon>
           <p class="features-title">
@@ -79,3 +81,10 @@
     ></script>
   </body>
 </html>
+
+<!-- 
+1.)use class names for every single ele and avoid id and element selectors
+2.)refactor css a bit
+
+sorry <3
+ -->
