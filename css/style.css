@@ -6,8 +6,9 @@ FONT SIZE SYSTEM (px)
 10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
 */
 /* main color:#FF5403; 
-  secondary-color:#FF8E00
+  secondary-color:#f76707
   grey color:#343a40;
+  334756
 */
 
 * {
@@ -21,19 +22,15 @@ FONT SIZE SYSTEM (px)
 /* ------------------------ */
 body {
   font-family: "Work Sans", sans-serif;
-  color: #3a3c3f;
+  color: #334756;
 }
 
 html {
-  /* font-size: 10px; */
-  /* Percentage for user's browser font-size settings */
-  /* 10px/16px = 0.625 = 62.5% */
   font-size: 62.5%;
-  /* now 1rem = 10px */
 }
 
 .container {
-  width: 960px;
+  width: 96rem;
   margin: 0 auto;
 }
 
@@ -45,7 +42,7 @@ section {
 }
 
 .logo {
-  color: #ff8e00;
+  color: #f76707;
 }
 
 h2 {
@@ -79,7 +76,7 @@ h2 {
 
 .btn:hover,
 .btn:active {
-  background-color: #ff8e00;
+  background-color: #f76707;
 }
 
 .btn--big {
@@ -111,7 +108,7 @@ h2 {
   margin-bottom: 1.6rem;
   text-transform: uppercase;
   font-weight: 600;
-  color: #ff8e00;
+  color: #f76707;
   letter-spacing: 1.2px;
 }
 
@@ -119,7 +116,7 @@ h2 {
   margin-bottom: 1.5rem;
   font-size: 4.4rem;
   line-height: 1.1;
-  letter-spacing: -1px;
+  letter-spacing: -0.1rem;
   font-weight: 700;
 }
 
@@ -140,19 +137,22 @@ h2 {
 }
 
 /* FEATURES */
+
 .features-header {
   margin-bottom: 5.2rem;
   font-size: 3.6rem;
   line-height: 1.1;
-  letter-spacing: -1px;
+  letter-spacing: -0.1rem;
   font-weight: 700;
 }
 
 .features-icon {
-  color: #ff8e00;
-  width: 3.2rem;
+  color: #f76707;
+  font-size: 3.2rem;
+  width: 20.3rem;
   height: 3.2rem;
-  margin-bottom: 1.6rem;
+  margin-bottom: 2.6rem;
+  text-align: center;
 }
 
 .features-title {
@@ -164,6 +164,7 @@ h2 {
   font-size: 1.8rem;
   line-height: 1.7;
 }
+
 /* REVIEW */
 
 .carousel {
@@ -180,12 +181,12 @@ h2 {
   height: 20rem;
   box-shadow: 0 1.2rem 2.4rem rgba(0, 0, 0, 0.25);
   border-radius: 1.2rem;
-  transform: scale(1.5);
+  transform: scale(1.4);
   transition: all 0.4s;
 }
 
 .review-img:hover {
-  transform: scale(1.4);
+  transform: scale(1.5);
 }
 
 .review-text {
@@ -200,6 +201,7 @@ h2 {
   font-size: 1.8rem;
   margin-bottom: 0.9rem;
   color: #c3fae8;
+  font-weight: 700;
 }
 
 .owner {
@@ -210,11 +212,11 @@ h2 {
 .review-btn {
   background-color: #fff;
   border: none;
-  height: 40px;
-  width: 40px;
+  height: 4rem;
+  width: 4rem;
   border-radius: 50%;
   position: absolute;
-  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1.2rem 2.4rem rgba(0, 0, 0, 0.2);
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -244,8 +246,7 @@ h2 {
   position: absolute;
   left: 50%;
   bottom: 0;
-  transform: translate(-50%, 32px);
-
+  transform: translate(-50%, 3.2rem);
   display: flex;
   gap: 1.2rem;
 }
@@ -262,12 +263,12 @@ h2 {
 .dot--fill {
   background-color: #ff5403;
 }
+
 /* PRODUCTS */
 
 .best-seller {
   box-shadow: 0 2rem 3rem 0 rgba(0, 0, 0, 0.07);
   border-radius: 1.2rem;
-
   transition: all 0.4s;
   overflow: hidden;
 }
@@ -319,7 +320,7 @@ h3 {
 }
 
 .product-icon {
-  color: #ff8e00;
+  color: #f76707;
   width: 2.4rem;
   height: 2.4rem;
 }
@@ -329,4 +330,14 @@ h3 {
   justify-content: space-between;
   align-items: center;
   font-size: 2rem;
+}
+
+/* footer */
+
+.footer {
+  margin-top: 8rem;
+  margin-bottom: 4.8rem;
+  font-size: 1.4rem;
+  line-height: 1.2;
+  color: #495057;
 }
